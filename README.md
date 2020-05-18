@@ -5,7 +5,7 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
+![profile-desc](https://i.imgur.com/2h34dxu.jpg "profile-desc")
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
